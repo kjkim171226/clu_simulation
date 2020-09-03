@@ -1,0 +1,13 @@
+# push
+git status
+git add.
+git commit -m "message"
+git push origin master
+
+
+
+# pull
+git init
+git remote add origin https://github.com/kjkim171226/clu_simulation.git
+
+git pull origin master
