@@ -1,0 +1,1 @@
+stm32f105vct6, hal driver, iar 8.40.2.22891
